@@ -41,21 +41,21 @@ export default function FeaturedBlog() {
         <SRow>
             <Col>
                 <Blog>
-                    <img src={require('../assets/yoann-siloine-dyaxQ-aoGWY-unsplash.jpg')}></img>
+                    <img src={require('../assets/yoann-siloine-dyaxQ-aoGWY-unsplash.jpg')} alt="1"></img>
                     <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…</Description>
                     <Link>3 days ago by Jeff{' '}<BsArrowRight></BsArrowRight></Link>
                 </Blog>
             </Col>
             <Col>
                 <Blog>
-                    <img src={require('../assets/fabrice-villard-Jrl_UQcZqOc-unsplash.jpg')}></img>
+                    <img src={require('../assets/fabrice-villard-Jrl_UQcZqOc-unsplash.jpg')} alt="2"></img>
                     <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…</Description>
                     <Link>3 days ago by Jeff{' '}<BsArrowRight></BsArrowRight></Link>
                 </Blog>
             </Col>
             <Col>
                 <Blog>
-                    <img src={require('../assets/florian-klauer-mk7D-4UCfmg-unsplash.jpg')}></img>
+                    <img src={require('../assets/florian-klauer-mk7D-4UCfmg-unsplash.jpg')} alt="3"></img>
                     <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed…</Description>
                     <Link>3 days ago by Jeff{' '}<BsArrowRight></BsArrowRight></Link>
                 </Blog>
