@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Website Containing majorly all general components
+
+Deployed on Netlify: https://heroic-pika-0b7111.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
